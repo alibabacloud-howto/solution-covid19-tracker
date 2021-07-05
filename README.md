@@ -8,15 +8,15 @@ This solution deploys simple cloud native web app (https://github.com/yankidank/
 ![image desc](https://labex.io/upload/P/W/H/PZpJIe60CxkY.png)
 
 ## 0. Index
-- [1. Use Terraform to create resources](http://gitlab.alibaba-inc.com/alibabacloud-labs/solution-covid19-tracker/tree/master#1-use-terraform-to-create-resources)
-  - [1.1 Install Terraform (skip this step if you already have Terraform installed)](http://gitlab.alibaba-inc.com/alibabacloud-labs/solution-covid19-tracker/tree/master#11-install-terraform-skip-this-step-if-you-already-have-terraform-installed)
-  - [1.2 Create resources](http://gitlab.alibaba-inc.com/alibabacloud-labs/solution-covid19-tracker/tree/master#12-create-resources)
-- [2. Install NodeJS](http://gitlab.alibaba-inc.com/alibabacloud-labs/solution-covid19-tracker/tree/master#2-install-nodejs)
-- [3. Install the web app project](http://gitlab.alibaba-inc.com/alibabacloud-labs/solution-covid19-tracker/tree/master#3-install-the-web-app-project)
-  - [3.1 Download project](http://gitlab.alibaba-inc.com/alibabacloud-labs/solution-covid19-tracker/tree/master#31-download-project)
-  - [3.2 Import data](http://gitlab.alibaba-inc.com/alibabacloud-labs/solution-covid19-tracker/tree/master#32-import-data)
-  - [3.3 Get Sparkpost key](http://gitlab.alibaba-inc.com/alibabacloud-labs/solution-covid19-tracker/tree/master#33-get-sparkpost-key)
-  - [3.4 Run the web app](http://gitlab.alibaba-inc.com/alibabacloud-labs/solution-covid19-tracker/tree/master#34-run-the-web-app)
+- [1. Use Terraform to create resources](https://github.com/alibabacloud-howto/solution-covid19-tracker#1-use-terraform-to-create-resources)
+  - [1.1 Install Terraform (skip this step if you already have Terraform installed)](https://github.com/alibabacloud-howto/solution-covid19-tracker#11-install-terraform-skip-this-step-if-you-already-have-terraform-installed)
+  - [1.2 Create resources](https://github.com/alibabacloud-howto/solution-covid19-tracker#12-create-resources)
+- [2. Install NodeJS](https://github.com/alibabacloud-howto/solution-covid19-tracker#2-install-nodejs)
+- [3. Install the web app project](https://github.com/alibabacloud-howto/solution-covid19-tracker#3-install-the-web-app-project)
+  - [3.1 Download project](https://github.com/alibabacloud-howto/solution-covid19-tracker#31-download-project)
+  - [3.2 Import data](https://github.com/alibabacloud-howto/solution-covid19-tracker#32-import-data)
+  - [3.3 Get Sparkpost key](https://github.com/alibabacloud-howto/solution-covid19-tracker#33-get-sparkpost-key)
+  - [3.4 Run the web app](https://github.com/alibabacloud-howto/solution-covid19-tracker#34-run-the-web-app)
 
 ## 1. Use Terraform to create resources
 
