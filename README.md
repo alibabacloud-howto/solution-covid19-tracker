@@ -4,6 +4,13 @@ This solution deploys simple cloud native web app (https://github.com/yankidank/
 
 ![image desc](https://labex.io/upload/Y/Q/T/hTJ48P6KVnAM.jpg)
 
+You can access the tutorial artifact including deployment script (Terraform), related source code, sample data and instruction guidance from the github project:
+[https://github.com/alibabacloud-howto/solution-covid19-tracker](https://github.com/alibabacloud-howto/solution-covid19-tracker)
+
+More tutorial around Alibaba Cloud Database, please refer to:
+[https://github.com/alibabacloud-howto/database](https://github.com/alibabacloud-howto/database)
+
+
 ## Architecture
 ![image desc](https://labex.io/upload/P/W/H/PZpJIe60CxkY.png)
 
