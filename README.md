@@ -31,6 +31,8 @@ More tutorial around Alibaba Cloud Database, please refer to:
 
 Set up terraform CLI environment on your desktop. For the tutorial about how to setup Terraform CLI, you can refer to https://partners-intl.aliyun.com/help/doc-detail/91289.htm
 
+Or if you are the 1st time to use Terraform, please refer to [https://github.com/alibabacloud-howto/terraform-templates](https://github.com/alibabacloud-howto/terraform-templates) to learn how to install and use the Terraform on different operating systems.
+
 ### 1.2 Create resources
 
 Refer back to the user's home directory as shown below, click AccessKey Management.
